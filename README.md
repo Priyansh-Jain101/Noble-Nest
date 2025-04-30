@@ -6,7 +6,7 @@ NobleNest serves as a comprehensive online platform designed to facilitate the b
 
 The Noble Nest is a robust real estate platform that integrates a wide array of advanced features to enhance user experience and streamline property transactions. Key functionalities include:
 
-- Authentication: Secure user authentication through registration and login systems, enabling both buyers and sellers to manage their profiles, listings, and transactions efficiently.
+- Authentication:Secure user authentication through registration, OTP verification, and login systems, enabling both buyers and sellers to manage their profiles, listings, and transactions efficiently.
 
 - Search Functionality: An intuitive search engine that allows users to filter properties based on criteria such as location, price range, type, size, and amenities.
 
@@ -69,3 +69,5 @@ Follow these steps to set up and run the project locally:
 
 ### MongoDB Atlas Setup
 Create a free MongoDB Atlas account. Create a new cluster and database. Secure your cluster by enabling authentication and creating a user. Obtain the connection string for your MongoDB database. Add the connection string to your backend project's .env file (api).
+
+
