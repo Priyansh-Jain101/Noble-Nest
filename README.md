@@ -70,9 +70,12 @@ Follow these steps to set up and run the project locally:
 ### MongoDB Atlas Setup
 Create a free MongoDB Atlas account. Create a new cluster and database. Secure your cluster by enabling authentication and creating a user. Obtain the connection string for your MongoDB database. Add the connection string to your backend project's .env file (api).
 
+## Project Snippets
 ![Screenshot 2025-04-30 185931](https://github.com/user-attachments/assets/49457809-7301-4933-a912-f64a54556b87)
 
-![Screenshot 2025-04-30 190007](https://github.com/user-attachments/assets/7ca45d40-4f9e-4078-9056-8ba4f2eaf12d)   ![Screenshot 2025-04-30 190057](https://github.com/user-attachments/assets/d5712e7b-e6e8-4dc5-b79c-1191626abd24)
+![Screenshot 2025-04-30 190007](https://github.com/user-attachments/assets/7ca45d40-4f9e-4078-9056-8ba4f2eaf12d)   
+
+![Screenshot 2025-04-30 190057](https://github.com/user-attachments/assets/d5712e7b-e6e8-4dc5-b79c-1191626abd24)
 
 ![Screenshot 2025-04-30 190724](https://github.com/user-attachments/assets/3147fd63-6465-42aa-9a1b-0e72339e7a13)
 
